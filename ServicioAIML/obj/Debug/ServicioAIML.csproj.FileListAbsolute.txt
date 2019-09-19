@@ -1,0 +1,2 @@
+D:\ASP.Net\ChatbotAIML asp.net\ServicioAIML\obj\Debug\ServicioAIML.csprojAssemblyReference.cache
+D:\ASP.Net\ChatbotAIML asp.net\ServicioAIML\obj\Debug\ServicioAIML.csproj.CoreCompileInputs.cache
