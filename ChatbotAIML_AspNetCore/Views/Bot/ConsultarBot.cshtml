@@ -1,0 +1,21 @@
+﻿@model List<ChatbotAIML_AspNetCore.Models.Consulta>
+@{
+    ViewData["Title"] = "About";
+}
+<h3>@ViewData["Respuesta"] </h3>
+
+<p>Consultas Formuladas</p>
+@foreach (var c in Model)
+{
+    <div>
+        -Pregunta: @c.Pregunta
+    </div>
+    <div>
+        Respuesta: @c.Respuesta
+    </div>
+}
+<form action="/Bot/ConsultarBot" method="post">
+    <label for="consulta">Consulta</label>
+    <input type="text" name="consulta" value="" />
+    <input type="submit" name="enviar" value="Enviar" />
+</form>
