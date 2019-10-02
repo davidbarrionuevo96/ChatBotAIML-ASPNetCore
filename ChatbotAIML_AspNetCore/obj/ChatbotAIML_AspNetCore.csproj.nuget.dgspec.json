@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.Net\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj": {}
+    "D:\\GitHub\\ChatBotAIML-ASPNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj": {}
   },
   "projects": {
-    "D:\\ASP.Net\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj": {
+    "D:\\GitHub\\ChatBotAIML-ASPNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.Net\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj",
+        "projectUniqueName": "D:\\GitHub\\ChatBotAIML-ASPNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj",
         "projectName": "ChatbotAIML_AspNetCore",
-        "projectPath": "D:\\ASP.Net\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj",
+        "projectPath": "D:\\GitHub\\ChatBotAIML-ASPNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj",
         "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.Net\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore\\obj\\",
+        "outputPath": "D:\\GitHub\\ChatBotAIML-ASPNetCore\\ChatbotAIML_AspNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

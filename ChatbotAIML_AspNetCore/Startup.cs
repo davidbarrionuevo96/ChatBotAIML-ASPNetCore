@@ -53,7 +53,7 @@ namespace ChatbotAIML_AspNetCore
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Bot}/{action=ConsultarBot}/{id?}");
+                    template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }
