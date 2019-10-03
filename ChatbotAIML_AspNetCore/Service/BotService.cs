@@ -13,7 +13,11 @@ namespace ChatbotAIML_AspNetCore.Service
 
         User usuario;
         static List<Consulta> consultas = new List<Consulta>();
+        public static int cont = 3;
+        public static int cont2 = 0;
+
         public string ConsultarBot(string consultaUsuario)
+        
         {
             //Crea un nuevo usuario llamado Cliente, usando la informacion del objeto AI
             usuario = new User("Cliente", AI);
@@ -39,7 +43,15 @@ namespace ChatbotAIML_AspNetCore.Service
         }
         public List<Consulta> ObtenerConsultas()
         {
+
+            if (consultas.Count > cont) {                
+                cont++;
+                cont2++;
+                return consultas.Skip(cont2).Take(3).ToList(); ;
+            }
             return consultas;
+
         }
+        
     }
 }

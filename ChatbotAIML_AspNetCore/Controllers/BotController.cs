@@ -12,13 +12,15 @@ namespace ChatbotAIML_AspNetCore.Controllers
         public readonly BotService _botService = new BotService();
         public IActionResult ConsultarBot()
         {
+            
             return View(_botService.ObtenerConsultas());
         }
         [HttpPost]
         public IActionResult ConsultarBot(string consulta)
         {
                 ViewData["Respuesta"] = _botService.ConsultarBot(consulta);
-            
+
+           
             return View(_botService.ObtenerConsultas());
         }
     }

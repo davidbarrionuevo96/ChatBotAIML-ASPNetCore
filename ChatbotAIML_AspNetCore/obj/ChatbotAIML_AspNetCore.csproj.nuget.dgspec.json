@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASP.Net\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj": {}
+    "C:\\Users\\Nicolas\\Desktop\\ChatBotAIML-ASPNetCore-Dev\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj": {}
   },
   "projects": {
-    "D:\\ASP.Net\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj": {
+    "C:\\Users\\Nicolas\\Desktop\\ChatBotAIML-ASPNetCore-Dev\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASP.Net\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\Desktop\\ChatBotAIML-ASPNetCore-Dev\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj",
         "projectName": "ChatbotAIML_AspNetCore",
-        "projectPath": "D:\\ASP.Net\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "D:\\ASP.Net\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore\\obj\\",
+        "projectPath": "C:\\Users\\Nicolas\\Desktop\\ChatBotAIML-ASPNetCore-Dev\\ChatbotAIML_AspNetCore\\ChatbotAIML_AspNetCore.csproj",
+        "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicolas\\Desktop\\ChatBotAIML-ASPNetCore-Dev\\ChatbotAIML_AspNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nicolas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"

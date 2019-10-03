@@ -2,20 +2,24 @@
 @{
     ViewData["Title"] = "About";
 }
-<h3>@ViewData["Respuesta"] </h3>
+<h3>Haga su consulta</h3>
 
-<p>Consultas Formuladas</p>
+
+
 @foreach (var c in Model)
 {
-    <div>
-        -Pregunta: @c.Pregunta
+    <div class="text-left" style="color: #3fbbc0; font-weight:600;">
+        @c.Respuesta
     </div>
-    <div>
-        Respuesta: @c.Respuesta
+
+    <div class="text-right" style="color: #4272c1; font-weight:600;">
+        @c.Pregunta
     </div>
+
 }
 <form action="/Bot/ConsultarBot" method="post">
-    <label for="consulta">Consulta</label>
-    <input type="text" name="consulta" value="" />
-    <input type="submit" name="enviar" value="Enviar" />
+    <input type="text" style=" width:100%;" name="consulta" value="" /> <br /><br />
+
+    <input class="btn" style=" float: right; background: #4272c1 !important;" type="submit" name="enviar" value="Enviar" />
+
 </form>
