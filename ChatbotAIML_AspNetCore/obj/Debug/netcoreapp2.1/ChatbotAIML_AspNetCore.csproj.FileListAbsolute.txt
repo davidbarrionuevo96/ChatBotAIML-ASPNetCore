@@ -100,3 +100,37 @@ C:\Users\Nicolas\Desktop\ChatBotAIML-ASPNetCore-Dev\ChatbotAIML_AspNetCore\obj\D
 C:\Users\Nicolas\Desktop\ChatBotAIML-ASPNetCore-Dev\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.Views.pdb
 C:\Users\Nicolas\Desktop\ChatBotAIML-ASPNetCore-Dev\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.csproj.CopyComplete
 C:\Users\Nicolas\Desktop\ChatBotAIML-ASPNetCore-Dev\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.csprojAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\bin\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.deps.json
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\bin\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.runtimeconfig.json
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\bin\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.runtimeconfig.dev.json
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\bin\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.dll
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\bin\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.pdb
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\bin\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.Views.dll
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\bin\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.Views.pdb
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\bin\Debug\netcoreapp2.1\AIMLbot.dll
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.csprojAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.RazorAssemblyInfo.cache
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.RazorAssemblyInfo.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.TagHelpers.input.cache
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.TagHelpers.output.cache
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.RazorCoreGenerate.cache
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Bot\ConsultarBot.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.RazorTargetAssemblyInfo.cs
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.Views.pdb
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.csproj.CopyComplete
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.dll
+C:\Users\Nicolas\Desktop\Nueva carpeta\ChatBotAIML-ASPNetCore\ChatbotAIML_AspNetCore\obj\Debug\netcoreapp2.1\ChatbotAIML_AspNetCore.pdb

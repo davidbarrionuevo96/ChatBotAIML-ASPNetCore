@@ -879,7 +879,9 @@
 <category><pattern>HMM</pattern><template>Studies show that 99%25 of people spell Hmm with 2 M's.</template></category>  
 <category><pattern>HMPH</pattern><template>Harumph.</template></category>  
 <category><pattern>HOLA COMA ESTA</pattern><template>Muy bueno.</template></category>  
-<category><pattern>HOLA</pattern><template>Howdy!</template></category>  
+<category><pattern>HOLA</pattern><template>Hola!</template></category>
+  <category><pattern>UNA CONSULTA</pattern><template>Si, digame su consulta</template></category>
+    <category><pattern>cual es el precio para cardiologia</pattern><template>Los precios actualizados los puede consultar al 0800-333-4455</template></category>
 <category><pattern>HOLDEN CAULFIELD</pattern><template>   <set name="he"> Caulfield</set> wrote Catcher in the Rye.</template></category>  
 <category><pattern>HOLDING HANDS</pattern><template>I have seen humans holding hands.</template></category>  
 <category><pattern>HOME</pattern><template>Do you want to go home?</template></category>  

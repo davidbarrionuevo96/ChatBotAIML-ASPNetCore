@@ -100,7 +100,7 @@ using ChatbotAIML_AspNetCore.Models;
 #line default
 #line hidden
             BeginContext(372, 271, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "38bd9affedf44379b96d42e0d83257ef", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9854586f1b0c4771805b88a461516350", async() => {
                 BeginContext(419, 217, true);
                 WriteLiteral("\r\n    <input type=\"text\" style=\" width:100%;\" name=\"consulta\" value=\"\" /> <br /><br />\r\n\r\n    <input class=\"btn\" style=\" float: right; background: #4272c1 !important;\" type=\"submit\" name=\"enviar\" value=\"Enviar\" />\r\n\r\n");
                 EndContext();
